@@ -1,0 +1,24 @@
+[
+    {
+      "year": 2018,
+      "make": "Tesla",
+      "model": "Model S",
+      "region": "California",
+      "count": 500
+    },
+    {
+      "year": 2019,
+      "make": "Nissan",
+      "model": "Leaf",
+      "region": "New York",
+      "count": 300
+    },
+    {
+      "year": 2020,
+      "make": "Tesla",
+      "model": "Model 3",
+      "region": "Texas",
+      "count": 700
+    }
+  ]
+  
